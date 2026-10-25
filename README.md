@@ -18,10 +18,10 @@
 
 ## 👥 Anggota Kelompok
 
-1. **Siti Nursinta** — 2509116087 — Kelas C
-2. **Nabila Salma Putri** — 2509116065 — Kelas B
-3. **Daffa Rizqi Fadhillah** — 2509116068 — Kelas B
-4. **Selvi Bella Dwi Anita** — 2509116053 — Kelas B
+1. **Siti Nursinta** - 2509116087 - Kelas C
+2. **Nabila Salma Putri** - 2509116065 - Kelas B
+3. **Daffa Rizqi Fadhillah** - 2509116068 - Kelas B
+4. **Selvi Bella Dwi Anita** - 2509116053 - Kelas B
 ---
 
 ## ✨ Deskripsi
