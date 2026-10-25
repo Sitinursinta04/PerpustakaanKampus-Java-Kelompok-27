@@ -150,7 +150,11 @@ Pilih menu:
 
 ## 📸 Dokumentasi Program
 
-### Menu Utama
+Dokumentasi berikut menampilkan hasil eksekusi program **Sistem Manajemen Perpustakaan Kampus** pada beberapa fitur utama. Setiap dokumentasi menunjukkan penggunaan fitur dan struktur data yang telah diterapkan dalam program.
+
+### 🖥️ Menu Utama
+
+Menampilkan menu utama program yang menjadi tampilan awal ketika sistem dijalankan. Pengguna dapat memilih fitur yang tersedia, mulai dari melihat kategori buku hingga mengatur antrean peminjaman.
 
 <table border="1" bordercolor="black">
   <tr>
@@ -160,7 +164,9 @@ Pilih menu:
   </tr>
 </table>
 
-### Kelola Daftar Buku
+### 📚 Kelola Daftar Buku
+
+Menampilkan fitur untuk mengelola daftar buku yang tersedia di perpustakaan. Pada fitur ini, pengguna dapat melihat daftar buku serta melakukan penambahan dan penghapusan data buku. Pengelolaan daftar buku menggunakan **ArrayList** karena data dapat berubah secara dinamis.
 
 <table border="1" bordercolor="black">
   <tr>
@@ -170,7 +176,9 @@ Pilih menu:
   </tr>
 </table>
 
-### Data Peminjaman
+### 📊 Data Peminjaman
+
+Menampilkan data jumlah peminjaman berdasarkan kategori buku dan hari. Data tersebut disimpan menggunakan **Array 2D**, sehingga dapat mengatur data berdasarkan dua dimensi, yaitu kategori dan hari.
 
 <table border="1" bordercolor="black">
   <tr>
@@ -180,7 +188,9 @@ Pilih menu:
   </tr>
 </table>
 
-### Riwayat Transaksi
+### 🔄 Riwayat Transaksi
+
+Menampilkan riwayat transaksi peminjaman yang telah dilakukan. Riwayat transaksi menggunakan **Stack** dengan konsep **LIFO (Last In, First Out)**, sehingga transaksi yang terakhir dimasukkan akan menjadi transaksi yang pertama diproses atau dikeluarkan.
 
 <table border="1" bordercolor="black">
   <tr>
@@ -190,7 +200,9 @@ Pilih menu:
   </tr>
 </table>
 
-### Antrean Peminjaman
+### 👨‍🎓 Antrean Peminjaman
+
+Menampilkan antrean mahasiswa yang ingin melakukan peminjaman buku. Antrean menggunakan **Queue** dengan konsep **FIFO (First In, First Out)**, sehingga mahasiswa yang masuk terlebih dahulu akan dilayani terlebih dahulu.
 
 <table border="1" bordercolor="black">
   <tr>
